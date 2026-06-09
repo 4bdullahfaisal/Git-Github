@@ -1,4 +1,4 @@
-# Git & Github
+# Git Commands
 
 ## Configuration & Setup
 
